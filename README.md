@@ -22,9 +22,16 @@ Una vez clonado el proyecto y correrlo en su AndroidStudio podrá usarlo.
 ## Distribución de pantallas
 
 - Home: Yei Hong
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/Home.png)
 - PhotoDetail: Yei Hong
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/PhotoDetail.png)
 - MedicationResumen: Yei Hong
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/MedicationResumen.png)
 - AlarmCheck: Juan Sebastián Nuñez
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/AlarmCheck.png)
 - AlarmDisplay: Juan Sebastián Nuñez
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/AlarmDisplay.png)
 - AlarmNotification: Juan Sebastián Nuñez
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/AlarmNotification.png)
 - PosHome: Juan Sebastián Nuñez
+![image](https://github.com/YeiHong/UIMobile/blob/master/Extras/PosHome.png)
