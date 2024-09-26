@@ -18,6 +18,13 @@ Una vez clonado el proyecto y correrlo en su AndroidStudio podrá usarlo.
 
 ![image](https://github.com/user-attachments/assets/0339b5ba-5296-4698-8e33-958794ee3947)
 
+## Recursos
+
+Aqui está el APK: https://github.com/YeiHong/UIMobile/blob/master/Extras/medicheck.apk
+
+Carpeta de Screenshot desde del AVD de las pantallas: https://github.com/YeiHong/UIMobile/tree/master/Extras
+
+Video con la navegación: [https://youtube.com/shorts/hpLppv09LT4](https://www.youtube.com/shorts/hpLppv09LT4)
 
 ## Distribución de pantallas
 
